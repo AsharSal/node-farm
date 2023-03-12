@@ -1,0 +1,15 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "simple node api",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Ashar Saleem",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.21",
+    "slugify": "^1.6.5"
+  }
+}
